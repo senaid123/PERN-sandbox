@@ -1,7 +1,7 @@
 ## PERN-sandbox
 
 
-#This is a playground for thechnologies:
+# This is a playground for thechnologies:
 
  1. PostgreSQL
  2. Express.js
